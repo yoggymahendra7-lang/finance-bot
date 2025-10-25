@@ -1,0 +1,16 @@
+{
+  "name": "kas-bot",
+  "version": "1.0.0",
+  "description": "Discord bot untuk manage kas (deposit/withdraw) menggunakan .env",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.0",
+    "dotenv": "^16.6.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
